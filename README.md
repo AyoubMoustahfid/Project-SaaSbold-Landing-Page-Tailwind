@@ -27,7 +27,7 @@ Ensure a seamless user experience across all devices with SaaSbold's fully respo
 
 To get started with SaaSbold, follow these simple steps:
 
-    Clone the repository: git clone https://github.com/your-username/SaaSbold.git
+    Clone the repository: git clone https://github.com/AyoubMoustahfid/Project-SaaSbold-Landing-Page-Tailwind
     Open the project in your preferred code editor.
     Customize the template to match your project requirements.
 
@@ -36,9 +36,5 @@ To get started with SaaSbold, follow these simple steps:
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-## Acknowledgments
-
-    Tailwind CSS - A utility-first CSS framework.
-    [Your Inspiration Source] - Mention any inspiration or resources that influenced the project.
 
 Feel free to reach out with any questions or issues. Happy coding!
